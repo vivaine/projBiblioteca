@@ -1,0 +1,9 @@
+D:\Pessoal\Viviane\PosFib\dotNetAvancado\ProjBiblioteca\ProjBiblioteca.Domain\obj\Debug\netstandard2.0\ProjBiblioteca.Domain.csprojAssemblyReference.cache
+D:\Pessoal\Viviane\PosFib\dotNetAvancado\ProjBiblioteca\ProjBiblioteca.Domain\obj\Debug\netstandard2.0\ProjBiblioteca.Domain.AssemblyInfoInputs.cache
+D:\Pessoal\Viviane\PosFib\dotNetAvancado\ProjBiblioteca\ProjBiblioteca.Domain\obj\Debug\netstandard2.0\ProjBiblioteca.Domain.AssemblyInfo.cs
+D:\Pessoal\Viviane\PosFib\dotNetAvancado\ProjBiblioteca\ProjBiblioteca.Domain\obj\Debug\netstandard2.0\ProjBiblioteca.Domain.csproj.CoreCompileInputs.cache
+D:\Pessoal\Viviane\PosFib\dotNetAvancado\ProjBiblioteca\ProjBiblioteca.Domain\bin\Debug\netstandard2.0\ProjBiblioteca.Domain.deps.json
+D:\Pessoal\Viviane\PosFib\dotNetAvancado\ProjBiblioteca\ProjBiblioteca.Domain\bin\Debug\netstandard2.0\ProjBiblioteca.Domain.dll
+D:\Pessoal\Viviane\PosFib\dotNetAvancado\ProjBiblioteca\ProjBiblioteca.Domain\bin\Debug\netstandard2.0\ProjBiblioteca.Domain.pdb
+D:\Pessoal\Viviane\PosFib\dotNetAvancado\ProjBiblioteca\ProjBiblioteca.Domain\obj\Debug\netstandard2.0\ProjBiblioteca.Domain.dll
+D:\Pessoal\Viviane\PosFib\dotNetAvancado\ProjBiblioteca\ProjBiblioteca.Domain\obj\Debug\netstandard2.0\ProjBiblioteca.Domain.pdb

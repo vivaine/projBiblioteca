@@ -1,0 +1,16 @@
+D:\Pessoal\Viviane\PosFib\dotNetAvancado\ProjBiblioteca\ProjBiblioteca.Infrastructure.IoC\obj\Debug\netstandard2.0\ProjBiblioteca.Infrastructure.IoC.csprojAssemblyReference.cache
+D:\Pessoal\Viviane\PosFib\dotNetAvancado\ProjBiblioteca\ProjBiblioteca.Infrastructure.IoC\obj\Debug\netstandard2.0\ProjBiblioteca.Infrastructure.IoC.AssemblyInfoInputs.cache
+D:\Pessoal\Viviane\PosFib\dotNetAvancado\ProjBiblioteca\ProjBiblioteca.Infrastructure.IoC\obj\Debug\netstandard2.0\ProjBiblioteca.Infrastructure.IoC.AssemblyInfo.cs
+D:\Pessoal\Viviane\PosFib\dotNetAvancado\ProjBiblioteca\ProjBiblioteca.Infrastructure.IoC\obj\Debug\netstandard2.0\ProjBiblioteca.Infrastructure.IoC.csproj.CoreCompileInputs.cache
+D:\Pessoal\Viviane\PosFib\dotNetAvancado\ProjBiblioteca\ProjBiblioteca.Infrastructure.IoC\bin\Debug\netstandard2.0\ProjBiblioteca.Infrastructure.IoC.deps.json
+D:\Pessoal\Viviane\PosFib\dotNetAvancado\ProjBiblioteca\ProjBiblioteca.Infrastructure.IoC\bin\Debug\netstandard2.0\ProjBiblioteca.Infrastructure.IoC.dll
+D:\Pessoal\Viviane\PosFib\dotNetAvancado\ProjBiblioteca\ProjBiblioteca.Infrastructure.IoC\bin\Debug\netstandard2.0\ProjBiblioteca.Infrastructure.IoC.pdb
+D:\Pessoal\Viviane\PosFib\dotNetAvancado\ProjBiblioteca\ProjBiblioteca.Infrastructure.IoC\bin\Debug\netstandard2.0\ProjBiblioteca.Application.dll
+D:\Pessoal\Viviane\PosFib\dotNetAvancado\ProjBiblioteca\ProjBiblioteca.Infrastructure.IoC\bin\Debug\netstandard2.0\ProjBiblioteca.Domain.dll
+D:\Pessoal\Viviane\PosFib\dotNetAvancado\ProjBiblioteca\ProjBiblioteca.Infrastructure.IoC\bin\Debug\netstandard2.0\ProjBiblioteca.Infrastructure.Data.dll
+D:\Pessoal\Viviane\PosFib\dotNetAvancado\ProjBiblioteca\ProjBiblioteca.Infrastructure.IoC\bin\Debug\netstandard2.0\ProjBiblioteca.Domain.pdb
+D:\Pessoal\Viviane\PosFib\dotNetAvancado\ProjBiblioteca\ProjBiblioteca.Infrastructure.IoC\bin\Debug\netstandard2.0\ProjBiblioteca.Application.pdb
+D:\Pessoal\Viviane\PosFib\dotNetAvancado\ProjBiblioteca\ProjBiblioteca.Infrastructure.IoC\bin\Debug\netstandard2.0\ProjBiblioteca.Infrastructure.Data.pdb
+D:\Pessoal\Viviane\PosFib\dotNetAvancado\ProjBiblioteca\ProjBiblioteca.Infrastructure.IoC\obj\Debug\netstandard2.0\ProjBiblioteca.Infrastructure.IoC.csproj.CopyComplete
+D:\Pessoal\Viviane\PosFib\dotNetAvancado\ProjBiblioteca\ProjBiblioteca.Infrastructure.IoC\obj\Debug\netstandard2.0\ProjBiblioteca.Infrastructure.IoC.dll
+D:\Pessoal\Viviane\PosFib\dotNetAvancado\ProjBiblioteca\ProjBiblioteca.Infrastructure.IoC\obj\Debug\netstandard2.0\ProjBiblioteca.Infrastructure.IoC.pdb
